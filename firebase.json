@@ -1,0 +1,27 @@
+{
+  "hosting": {
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "README.md",
+      "**/*.zip"
+    ],
+    "headers": [
+      {
+        "source": "**/*.m4a",
+        "headers": [
+          {
+            "key": "Content-Type",
+            "value": "audio/mp4"
+          },
+          {
+            "key": "Cache-Control",
+            "value": "public,max-age=3600"
+          }
+        ]
+      }
+    ]
+  }
+}
