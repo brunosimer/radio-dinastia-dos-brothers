@@ -6,7 +6,10 @@
       "**/.*",
       "**/node_modules/**",
       "README.md",
-      "**/*.zip"
+      "**/*.zip",
+      "scripts/**",
+      "league-settings.json",
+      "sync-league.py"
     ],
     "headers": [
       {
@@ -19,6 +22,15 @@
           {
             "key": "Cache-Control",
             "value": "public,max-age=3600"
+          }
+        ]
+      },
+      {
+        "source": "league-data.json",
+        "headers": [
+          {
+            "key": "Cache-Control",
+            "value": "no-cache"
           }
         ]
       }
