@@ -16,4 +16,6 @@ Edição 06/10/2026: fechamento da semana 4 e prévia da 5, áudio 24:19, págin
 
 Edição 13/10/2026: semana 5, campanhas oficiais após cinco rodadas, 37 operações concluídas e quatro waivers falhados na janela desde 06/10. Templyss em destaque. A trade Barkley/Jefferson por Puka/primeira de 2027 é pendente na apuração. Página anterior preservada em semana-4.html; relatório em boletim-semana-5.txt.
 
-Podcast semana 5: Defesa mantém Templyss como único invicto, 12:53, português BR. Edição preservada em semana-5.html.
+Podcast semana 5: Caos na Semana 5 e o Bye-pocalypse, 15:02, português BR. Edição preservada em semana-5.html.
+
+Versão escolhida pelo usuário, com correção factual da abertura junto ao player.
