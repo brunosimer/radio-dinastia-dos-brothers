@@ -18,4 +18,4 @@ Edição 13/10/2026: semana 5, campanhas oficiais após cinco rodadas, 37 opera�
 
 Podcast semana 5: Caos na Semana 5 e o Bye-pocalypse, 15:02, português BR. Edição preservada em semana-5.html.
 
-Versão escolhida pelo usuário, com correção factual da abertura junto ao player.
+Versão escolhida pelo usuário; errata da abertura prevista para a próxima edição.
