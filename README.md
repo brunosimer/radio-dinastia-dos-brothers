@@ -24,3 +24,8 @@ Versão escolhida pelo usuário; errata da abertura prevista para a próxima edi
 ## Semana 6 — 20/10/2026
 
 Fechamento dos seis confrontos, análises dos 12 managers, destaque Thales, três trades concluídas, mercado e avisos da semana 7. Errata da invencibilidade incluída na edição. Página preservada em semana-6.html; semana-5.html e episódios anteriores mantidos.
+
+
+## Edição de 03/11/2026
+
+Edição dupla das semanas 7 e 8, apuração desde 20/10; podcast “Vitória sem quarterback na Liga Dinastia” (18:53), primeira versão. Destaque editorial: Murillonycolas. Reportagem em `semanas-7-8.html`, relatório em `boletim-semanas-7-8.txt`, áudio em `fechamento-semanas-7-8.m4a`. Edições anteriores preservadas. A Central mantém consulta somente de leitura ao Sleeper.
